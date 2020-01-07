@@ -1,0 +1,280 @@
+     -------------------------------------------------- Welcome To CareAll --------------------------------------------------
+1.Register To Get Service
+2.Calculate Service Charges
+3.Register As Servce Provider
+4.Check Status
+5.Check Available User Who Need Service
+6.Show total cost
+7.Review & Rating
+8.EXIT
+
+Enter your choice:1
+
+Enter your name:aslam
+
+Enter your address:Dno.123,abc street,Tirupati,Andhra Pradesh
+
+Enter date for Appointment(DD/MM/YYYY):20/01/2020
+
+Enter your 10 digit mobile number:000000000000
+Enter a Valid Mobile Number:
+
+Enter your 10 digit mobile number:6300227157
+Your Appointment id: 101
+
+---------- Sorry To Hear You That We Are Unable To Allocate A Service Provider ----------
+  ---------- We don't have Service Providers For You As Per Your Preference ----------
+    ---------- We Will Allocate for You In No Time.....Check The Status -----------
+       ---------- Thanks A Lot For Your Love And Being With Us ----------------
+
+
+     ❤    ❤        ❤    ❤
+
+ ❤            ❤            ❤
+
+     ❤                ❤
+
+         ❤        ❤
+
+             ❤
+
+1.Register To Get Service
+2.Calculate Service Charges
+3.Register As Servce Provider
+4.Check Status
+5.Check Available User Who Need Service
+6.Show total cost
+7.Review & Rating
+8.EXIT
+
+Enter your choice:3
+
+Enter your name:raj
+
+Enter your address:DNo.23
+
+Enter Your Email Id: raju123@gmail.com
+
+Enter your 10 digit mobile number:4567654345
+Enter a Valid Mobile Number:
+
+Enter your 10 digit mobile number:9787876765
+Your id: 1000
+
+['raj', 'DNo.23', 'raju123@gmail.com', '9787876765']
+
+The Adult You Can Serve :
+
+['aslam', 'Dno.123,abc street,Tirupati,Andhra Pradesh', '20/01/2020', '6300227157']
+
+1.Register To Get Service
+2.Calculate Service Charges
+3.Register As Servce Provider
+4.Check Status
+5.Check Available User Who Need Service
+6.Show total cost
+7.Review & Rating
+8.EXIT
+
+Enter your choice:1
+
+Enter your name:sham
+
+Enter your address:DNo.34,JK Street,Tirupati,Andhra Pradesh
+
+Enter date for Appointment(DD/MM/YYYY):22/01/2020
+
+Enter your 10 digit mobile number:9876789876
+Your Appointment id: 102
+
+The Users Based Upon Reviews And Ratings :
+No Reviews And Ratings Provided Yet
+You Can Get Service From :
+
+['raj', 'DNo.23', 'raju123@gmail.com', '9787876765']
+
+1.Register To Get Service
+2.Calculate Service Charges
+3.Register As Servce Provider
+4.Check Status
+5.Check Available User Who Need Service
+6.Show total cost
+7.Review & Rating
+8.EXIT
+
+Enter your choice:7
+Enter The Name Of Service Provider Whom You Wish To Provider Review And Rating : raj
+Enter Id:101
+1. ❤
+2. ❤ ❤
+3. ❤ ❤ ❤
+4. ❤ ❤ ❤ ❤
+5. ❤ ❤ ❤ ❤ ❤
+Enter Your Rating: 5
+Enter Review: Very Good Service
+[['Name:', 'raj', 'Id:', 101, 'Rating:', '❤ ❤ ❤ ❤ ❤', 'Review:', 'Very Good Service']]
+1.Register To Get Service
+2.Calculate Service Charges
+3.Register As Servce Provider
+4.Check Status
+5.Check Available User Who Need Service
+6.Show total cost
+7.Review & Rating
+8.EXIT
+
+Enter your choice:1
+
+Enter your name:ravi
+
+Enter your address:222,SK Street,Tirupati,Andhra Pradesh
+
+Enter date for Appointment(DD/MM/YYYY):23/01/2020
+
+Enter your 10 digit mobile number:9809876789
+Your Appointment id: 103
+
+The Users Based Upon Reviews And Ratings :
+[['Name:', 'raj', 'Id:', 101, 'Rating:', '❤ ❤ ❤ ❤ ❤', 'Review:', 'Very Good Service']]
+You Can Get Service From :
+
+['raj', 'DNo.23', 'raju123@gmail.com', '9787876765']
+
+1.Register To Get Service
+2.Calculate Service Charges
+3.Register As Servce Provider
+4.Check Status
+5.Check Available User Who Need Service
+6.Show total cost
+7.Review & Rating
+8.EXIT
+
+Enter your choice:2
+We have the following services for you Based on Ratings:-
+1.  type A---->rs 600 Per Hour\-
+2.  type B---->rs 500 Per Hour\-
+3.  type C---->rs 400 Per Hour\-
+4.  type D---->rs 300 Per Hour\-
+Enter Your Choice Please->1
+For How Many Hours Did You Need Service:4
+you have opted Service type A
+your Service Charge is = 2400
+
+1.Register To Get Service
+2.Calculate Service Charges
+3.Register As Servce Provider
+4.Check Status
+5.Check Available User Who Need Service
+6.Show total cost
+7.Review & Rating
+8.EXIT
+
+Enter your choice:4
+Customer name: ravi
+Customer address: 222,SK Street,Tirupati,Andhra Pradesh
+Check in date: 23/01/2020
+Registered Phone Number: 9809876789
+Id: 103
+Available Service Providers
+You Can Get Service From:
+['raj', 'DNo.23', 'raju123@gmail.com', '9787876765']
+
+1.Register To Get Service
+2.Calculate Service Charges
+3.Register As Servce Provider
+4.Check Status
+5.Check Available User Who Need Service
+6.Show total cost
+7.Review & Rating
+8.EXIT
+
+Enter your choice:5
+Customer name: raj
+Customer address: DNo.23
+Check in date: raju123@gmail.com
+Check out date 9787876765
+Room no. 1000
+The Adult You Can Serve :
+['aslam', 'Dno.123,abc street,Tirupati,Andhra Pradesh', '20/01/2020', '6300227157']
+
+['sham', 'DNo.34,JK Street,Tirupati,Andhra Pradesh', '22/01/2020', '9876789876']
+
+['ravi', '222,SK Street,Tirupati,Andhra Pradesh', '23/01/2020', '9809876789']
+
+1.Register To Get Service
+2.Calculate Service Charges
+3.Register As Servce Provider
+4.Check Status
+5.Check Available User Who Need Service
+6.Show total cost
+7.Review & Rating
+8.EXIT
+
+Enter your choice:6
+     -------------------------------------------------- Total Description --------------------------------------------------
+
+Customer details:
+
+Customer name: ravi
+
+Customer address: 222,SK Street,Tirupati,Andhra Pradesh
+
+Check in date: 23/01/2020
+
+Regisered Phone Number: 9809876789
+
+Registration Id: 103
+
+Person Who Serves You
+
+Name Of A : raj
+
+ address: DNo.23
+
+Email Id: raju123@gmail.com
+
+Phone Number 9787876765
+
+Id: 1000
+The generated Tracking Id : BK9U7LAOLX
+1.Register To Get Service
+2.Calculate Service Charges
+3.Register As Servce Provider
+4.Check Status
+5.Check Available User Who Need Service
+6.Show total cost
+7.Review & Rating
+8.EXIT
+
+Enter your choice:3
+
+Enter your name:aaa
+
+Enter your address:234,SS Street,Chennai
+
+Enter Your Email Id: aaa23@gmail.com
+
+Enter your 10 digit mobile number:9876765432
+Your id: 1000
+
+['raj', 'DNo.23', 'raju123@gmail.com', '9787876765']
+
+['aaa', '234,SS Street,Chennai', 'aaa23@gmail.com', '9876765432']
+
+The Adult You Can Serve :
+
+['aslam', 'Dno.123,abc street,Tirupati,Andhra Pradesh', '20/01/2020', '6300227157']
+
+['sham', 'DNo.34,JK Street,Tirupati,Andhra Pradesh', '22/01/2020', '9876789876']
+
+['ravi', '222,SK Street,Tirupati,Andhra Pradesh', '23/01/2020', '9809876789']
+
+1.Register To Get Service
+2.Calculate Service Charges
+3.Register As Servce Provider
+4.Check Status
+5.Check Available User Who Need Service
+6.Show total cost
+7.Review & Rating
+8.EXIT
+
+Enter your choice:8
